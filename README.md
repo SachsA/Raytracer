@@ -23,4 +23,4 @@ It was developp in C and here is an exaustive list of features :
 > - Nuances
 
 ----------
-It was made with Alexandre Sachs, Kellian Cipierre, Corentin Thomazeau, Théodore Marestin
+It was made by Kellian Cipierre, Thomas Lombard, Théodore Marestin, Alexandre Sachs, Corentin Thomazeau.
