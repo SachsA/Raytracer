@@ -1,0 +1,16 @@
+{
+  "name":"rt",
+  "geometry":
+  [
+    {"type":"cone", "angle":15, "pos":[0, 0, 500], "color":[0, 0, 255], "reflexion":0.7, "refraction":50},
+    {"type":"sphere", "radius":200, "pos":[-50, 0, 800], "color":[255, 0, 0], "reflexion":0, "refraction":10000},
+    {"type":"cone", "angle":15, "pos":[0, -500, 500], "color":[255, 0, 0], "reflexion":0.5, "refraction":10000},
+      {"type":"cone", "angle":15, "pos":[0, 500, 500], "color":[0, 255, 0], "reflexion":0, "refraction":50},
+    {"type":"plan", "pos":[0, 0, -200], "color":[255, 255, 255], "reflexion":0, "refraction":10000}
+  ],
+  "lights":
+  [
+    {"color": [255, 255, 255], "pos": [-2000, 0, 500]}
+  ],
+    "camera":{"pos":[-2000, 0, 0], "direction":[-2000, 0, 0]}
+}

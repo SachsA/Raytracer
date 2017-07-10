@@ -1,0 +1,45 @@
+{
+  "name":"rt",
+  "geometry":
+  [
+    {"type":"sphere", "radius":100, "pos":[0, 0, 0], "color":[255, 255, 255], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, -200], "color":[0, 255, 255], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, -400], "color":[255, 0, 255], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, -600], "color":[255, 255, 0], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, -800], "color":[0, 0, 255], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, -1000], "color":[0, 255, 0], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 200], "color":[255, 0, 0], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 400], "color":[155, 155, 255], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 600], "color":[155, 255, 155], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 800], "color":[255, 155, 155], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 1000], "color":[155, 155, 0], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 1200], "color":[0, 255, 155], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 1400], "color":[255, 0, 155], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 1600], "color":[0, 155, 0], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, -1200], "color":[155, 55, 0], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, -1400], "color":[55, 55, 255], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, -1600], "color":[55, 55, 55], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, -1800], "color":[0, 0, 155], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 2000], "color":[155, 155, 155], "reflexion":0.5, "refraction":10000},
+    {"type":"sphere", "radius":100, "pos":[0, 0, 1800], "color":[55, 100, 55], "reflexion":0.5, "refraction":10000}
+  ],
+  "lights":
+  [
+      {"color": [255, 255, 255], "pos": [-1000, 100, 200]},
+      {"color": [255, 255, 255], "pos": [-1000, -100, 200]},
+      {"color": [255, 255, 255], "pos": [-1000, 200, 200]},
+      {"color": [255, 255, 255], "pos": [-1000, -200, 200]},
+      {"color": [255, 255, 255], "pos": [-1000, 0, 200]},
+      {"color": [255, 255, 255], "pos": [-1000, 100, -200]},
+      {"color": [255, 255, 255], "pos": [-1000, -100, -200]},
+      {"color": [255, 255, 255], "pos": [-1000, 200, -200]},
+      {"color": [255, 255, 255], "pos": [-1000, -200, -200]},
+      {"color": [255, 255, 255], "pos": [-1000, 0, -200]},
+      {"color": [255, 255, 255], "pos": [-1000, 100, 0]},
+      {"color": [255, 255, 255], "pos": [-1000, -100, 0]},
+      {"color": [255, 255, 255], "pos": [-1000, 200, 0]},
+      {"color": [255, 255, 255], "pos": [-1000, -200, 0]},
+    {"color": [255, 255, 255], "pos": [-1000, 0, 0]}
+  ],
+    "camera":{"pos":[-2000, 0, 0], "direction":[-2000, 0, 0]}
+}

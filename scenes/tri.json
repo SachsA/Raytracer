@@ -1,0 +1,14 @@
+{
+  "name":"rt",
+  "geometry":
+  [
+      {"type":"sphere", "radius":500, "pos":[800, 0, 0], "color":[255, 255, 255], "reflexion":0.9},
+      {"type":"sphere", "radius":1000, "pos":[1500, 0, 500], "color":[255, 255, 255], "reflexion":1},
+      {"type":"triangle", "pos":[-150, 300, -100], "min":[150, 200, -300], "max":[-150, 200, 300], "color":[0, 255, 0]},
+      {"type":"plan", "pos":[0, 0, -500], "color":[255, 255, 255], "reflexion":0.8}
+  ],
+  "lights":
+  [
+    {"color": [255, 255, 255], "pos": [-2000, 0, 0]}
+  ]
+}

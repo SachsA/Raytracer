@@ -1,0 +1,16 @@
+{
+  "name":"rt",
+  "geometry":
+  [
+    {"type":"sphere", "radius":200, "pos":[0, 0, 200], "color":[255, 255, 255], "reflexion":0},
+    {"type":"sphere", "radius":150, "pos":[-60, 0, 200], "color":[0, 0, 200], "reflexion":0},
+    {"type":"sphere", "radius":80, "pos":[-150, 0, 200], "color":[255, 0, 0], "reflexion":1},
+    {"type":"sphere", "radius":500, "pos":[-4000, 0, 200], "color":[255, 255, 255], "reflexion":0}
+
+  ],
+  "lights":
+  [
+    {"color": [255, 255, 255], "pos": [-1000, 200, -50]}
+  ],
+  "camera":{"pos":[-2000, 0, 0], "direction":[0, 0, 0]}
+}

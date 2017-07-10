@@ -1,0 +1,24 @@
+{
+  "name":"rt",
+  "geometry":
+  [
+    {"type":"triangle", "pos":[0, 200, 0], "min":[0, -200, 0], "max":[0, 200, 400], "color":[255, 0, 0], "reflexion":0},
+    {"type":"triangle", "pos":[0, -200, 400], "min":[0, -200, 0], "max":[0, 200, 400], "color":[255, 0, 0], "reflexion":0},
+    {"type":"triangle", "pos":[400, 200, 0], "min":[400, -200, 0], "max":[400, 200, 400], "color":[0, 255, 0], "reflexion":0},
+    {"type":"triangle", "pos":[400, -200, 400], "min":[400, -200, 0], "max":[400, 200, 400], "color":[0, 255, 0], "reflexion":0},
+    {"type":"triangle", "pos":[400, -200, 0], "min":[0, -200, 0], "max":[0, -200, 400], "color":[0, 0, 255], "reflexion":0},
+    {"type":"triangle", "pos":[0, -200, 400], "min":[400, -200, 400], "max":[400, -200, 0], "color":[0, 0, 255], "reflexion":0},
+    {"type":"triangle", "pos":[400, 200, 0], "min":[0, 200, 0], "max":[0, 200, 400], "color":[255, 255, 0], "reflexion":0},
+    {"type":"triangle", "pos":[0, 200, 400], "min":[400, 200, 400], "max":[400, 200, 0], "color":[255, 255, 0], "reflexion":0},
+    {"type":"triangle", "pos":[0, 200, 400], "min":[400, 200, 400], "max":[0, -200, 400], "color":[0, 255, 255], "reflexion":0},
+    {"type":"triangle", "pos":[400, -200, 400], "min":[0, -200, 400], "max":[400, 200, 400], "color":[0, 255, 255], "reflexion":0},
+    {"type":"triangle", "pos":[0, 200, 0], "min":[400, 200, 0], "max":[0, -200, 0], "color":[255, 0, 255], "reflexion":0},
+    {"type":"triangle", "pos":[400, -200, 0], "min":[0, -200, 0], "max":[400, 200, 0], "color":[255, 0, 255], "reflexion":0},
+    {"type":"plan", "rot":[0, 0, 0], "pos":[0, 0, -300], "color":[155, 150, 255], "reflexion":0}
+  ],
+  "lights":
+  [
+    {"color": [255, 255, 255], "pos": [-2000, 500, 1000]}
+  ],
+  "camera":{"pos":[-2000, 750, 500], "direction":[0, 0, 0]}
+}
