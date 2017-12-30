@@ -21,7 +21,7 @@ CFLAGS		+= -fsanitize=leak -fsanitize=unreachable -fsanitize=return -fno-builtin
 CFLAGS		+= $(FLAGS)
 
 LDFLAGS		+= -L. -Lsrc/lib/list -Lsrc/lib/bmp
-LDFLAGS		+= -lmy -lbmp -lm -lst -lpthread -lc_graph_prog_full
+LDFLAGS		+= -lmy -lbmp -lm -lst -lpthread -lc_graph_prog
 
 AR		=  ar rcs
 
