@@ -24,7 +24,7 @@
 # define DEFAULT_THREAD		4
 # define DEFAULT_SAMPLE_DIR	"samples"
 # define DEFAULT_FONT_NAME	"space-age.spaceage.otf"
-# define DEFAULT_NODE "/usr/bin/node"
+# define DEFAULT_NODE ".node/bin/node"
 # define WIN_NAME(val) ((val) ? val : DEFAULT_NAME)
 # define RD_TAG_LENGTH	20
 # define RD_NAME_LENGTH	512
