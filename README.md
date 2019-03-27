@@ -1,8 +1,6 @@
+# Raytracer
 
-###There is our EPITECH Raytracer
-
-----------
-
+###### Epitech's Raytracer
 It was developp in C and here is an exaustive list of features :
 
  > - Forms (Sphere, cone, cylinder, plan, cube, triangle)
@@ -19,11 +17,28 @@ It was developp in C and here is an exaustive list of features :
  > - Sepia effect
  > - Lot of other effects : pastel, black/white, green, red, blue... (example, press the key : p = pastel, g = green)
  > - Nuances
+
+### Raytracer file generation:
+  ```sh
+        ./sofy.js scenes/"scene".json -f
+```
+
+### Program compilation and launch:
+  ```sh
+        make
+```
+  ```sh
+        ./raytracer "scene".rt
+```
  
-==> To see all the help, go for : ./raytracer -h.
+### Raytracer Usage
+- To see all the help, go for : ./raytracer -h.
+- To see all the keyboard's effects: press "H" when the image is done.
 
-==> To see all the keyboard's effects, go for : press h when the image is done.
 
-----------
-
-It was made by Kellian Cipierre, Thomas Lombard, Théodore Marestin, Alexandre Sachs, Corentin Thomazeau.
+#### Project realised by:
+- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+- **Corentin Thomazeau : [corentin.thomazeau@epitech.eu]()**
+- **Kellian Cipierre : [kellian.cipierre@epitech.eu](https://github.com/K6PIR)**
+- **Théodore Marestin : [théodore.marestin@epitech.eu]()**
+- **Thomas Lombard : [thomas.lombard@epitech.eu]()**
