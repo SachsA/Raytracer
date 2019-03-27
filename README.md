@@ -41,4 +41,4 @@ It was developp in C and here is an exaustive list of features :
 - **Corentin Thomazeau : [corentin.thomazeau@epitech.eu]()**
 - **Kellian Cipierre : [kellian.cipierre@epitech.eu](https://github.com/K6PIR)**
 - **Théodore Marestin : [théodore.marestin@epitech.eu]()**
-- **Thomas Lombard : [thomas.lombard@epitech.eu]()**
+- **Thomas Lombard : [thomas.lombard@epitech.eu](https://github.com/Deafter)**
