@@ -37,8 +37,8 @@ It was developp in C and here is an exaustive list of features :
 
 
 #### Project realised by:
-- **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+- **Alexandre Sachs : [alexandre.sachs@outlook.fr](https://github.com/SachsA)**
 - **Corentin Thomazeau : [corentin.thomazeau@epitech.eu]()**
 - **Kellian Cipierre : [kellian.cipierre@epitech.eu](https://github.com/K6PIR)**
-- **Théodore Marestin : [théodore.marestin@epitech.eu]()**
+- **Théodore Marestin : [theodore.marestin@epitech.eu]()**
 - **Thomas Lombard : [thomas.lombard@epitech.eu](https://github.com/Deafter)**
